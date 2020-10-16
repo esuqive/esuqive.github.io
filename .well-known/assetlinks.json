@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ru.ucb.android",
+    "sha256_cert_fingerprints":
+    ["3E:D5:E2:5F:D7:D8:26:35:8E:EE:2C:E4:9D:47:49:57:70:09:B9:CD:1F:09:0F:86:93:33:9C:C4:FE:D8:3D:98"]
+  }
+}]
